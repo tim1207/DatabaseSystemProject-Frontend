@@ -1,0 +1,39 @@
+.category-div-content{
+    background-color: #D0FAB7;
+    height: 85px;
+    padding-top: 10px;
+    text-align: center;
+}
+.category-button{
+    width: 50px;
+    height: 50px;
+}
+.category-button:hover{
+    transform: scale(1.2);
+}
+.category-p{
+    position: relative;
+    font-size: 15px;
+    bottom: 15px;
+    text-align: center;
+    color: black;
+}
+
+.el-button.active{
+    color: #ff69b4;
+}
+.el-button{
+    margin: 5px;
+    color: #6AB8FF;
+}
+.el-card{
+    background-color: #FFFADF ;
+    margin: 20% 10% 0;
+    border: solid #FFD88B 1px; 
+}
+
+.el-row.card-header{
+    background-color: #FFD88B;
+    color: #FFFFFF;
+    margin: -5px -10px;
+}
